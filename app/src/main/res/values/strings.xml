@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhoneCallDemo</string>
+    <string name="headerDescription">Formmore info please contact us from the following option</string>
+    <string name="contactus">Contact Us</string>
+    <string name="hint">Please Enter your Contact <br> detail for futher info</br></string>
+
+
+</resources>
